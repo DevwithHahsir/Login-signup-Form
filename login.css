@@ -179,3 +179,14 @@ li {
     color: white;
     margin: 1rem;
 }
+
+.socials
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.socials svg
+{
+    width: 2rem;
+}
